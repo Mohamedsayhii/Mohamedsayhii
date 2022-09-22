@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamedsayhii
 - 👀 I’m interested in all programming languages 
-- 🌱 I’m currently learning Dart & Flutter
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me mohamedsaihii@outlook.fr
 

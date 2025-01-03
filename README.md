@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mohamedsayhii
-- 👀 I’m interested in all programming languages 
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on anything
+- 👋 Hi, I’m Mohamed Sayhi
+- 👀 I’m interested in all CS fields 
+- 🌱 I’m currently working as an AI Developer at VERMEG
+- 💞️ I'm doing the odin project on the side
 - 📫 How to reach me mohamedsayhii@outlook.com
 
 <!---

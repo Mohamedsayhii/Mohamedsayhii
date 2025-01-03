@@ -2,7 +2,7 @@
 - 👀 I’m interested in all programming languages 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me mohamedsaihii@outlook.fr
+- 📫 How to reach me mohamedsayhii@outlook.com
 
 <!---
 Mohamedsayhii/Mohamedsayhii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
